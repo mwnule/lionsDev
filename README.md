@@ -2,7 +2,7 @@ Reposítório contendo as ativides das aulas iniciais do Lions Dev.
 Aprendi conteúdos como: 
 - Utilização de comandos no terminal;
 - Utilização de variáveis, como funcionam e quais são;
-- Como funcionam arrays, quais são os comodandos básicos;
+- Como funcionam arrays, quais são os comandos básicos;
 - Quais são os operadores lógicos essenciais;
 - Utilização de laços de repetição;
 - Atividades básicas de lógica de programação, como:
